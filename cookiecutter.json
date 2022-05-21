@@ -1,0 +1,5 @@
+{
+    "project_name": "api",
+    "dburl": "postgresql+psycopg2://api:${API_DB_PASSWORD}@db:5432/api",
+    "author": "Jane Doe <jane.doe@example.com>"
+}
